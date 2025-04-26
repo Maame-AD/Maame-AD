@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Maame Adutwumwaah Yeboah Oduro
+# Hello there! I'm Maame Adutwumwaah Yeboah Oduro 👋
 
 🎓 **MSc Data Science Student** at Kingston University London  
 💼 **Data Analyst** with 3+ years of experience transforming data into actionable insights across the agriculture, finance, and healthcare sectors  
